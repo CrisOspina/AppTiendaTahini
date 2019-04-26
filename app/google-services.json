@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "736627809968",
+    "firebase_url": "https://appproductoscro.firebaseio.com",
+    "project_id": "appproductoscro",
+    "storage_bucket": "appproductoscro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736627809968:android:c9355eabfa0ffbc5",
+        "android_client_info": {
+          "package_name": "com.example.app_proyecto1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736627809968-amevbm2lccj64hhmkgg7i93m2eqpjog5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADbXXGyj92wjw5URWpr-yCb15McYCQNpk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
